@@ -33,7 +33,7 @@ Message in every request, with url and method and time.
 Handle auth.
 
 # API swagger document
-localhost:5000/api/docs
+localhost:5000/api-docs
 
 # API Reference
 
