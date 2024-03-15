@@ -10,7 +10,7 @@ This also affects the follower system. If you try to access a private account or
 
 ### Getting started
 To start using the project, you must follow these steps:
-1) Create a register using name, email, password, role, and bio. They will be overridden with default values until the user changes them.
+1) Create a register using name, email, password. Role and bio They will be overridden with default values until the user changes them.
 
 2) Create a login with the same data to take the token, and from here we can use the rest of the features.
 
