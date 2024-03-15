@@ -27,7 +27,10 @@ What things you need to install the software and how to install them:
 
 
 
-
+### Middleware functions
+Url error.
+Message in every request, with url and method and time.
+Handle auth.
 
 # API Reference
 
